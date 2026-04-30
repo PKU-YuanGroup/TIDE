@@ -1,0 +1,7 @@
+compute_environment: LOCAL_MACHINE
+distributed_type: NO
+mixed_precision: "no"
+num_processes: 1
+machine_rank: 0
+num_machines: 1
+downcast_bf16: "no"

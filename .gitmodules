@@ -1,0 +1,7 @@
+[submodule "lm-evaluation-harness"]
+	path = lm-evaluation-harness
+	url = https://github.com/ZHZisZZ/lm-evaluation-harness
+	branch = dllm
+[submodule "tokenkit"]
+	path = tokenkit
+	url = https://github.com/Nobody-Zhang/tokenkit.git
